@@ -1,31 +1,49 @@
-# Site settings
+# ----------------------------
+
+# Site Configuration
+
+# ----------------------------
 
 title: Mokammel Haque Heerat
 description: Computer Science & Engineering Student | Aspiring Software Developer
 
-# Theme settings
+# ----------------------------
+
+# Theme Configuration
+
+# ----------------------------
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 
 * jekyll-remote-theme
 
-# Show download button (optional)
+# ----------------------------
+
+# GitHub Pages Settings
+
+# ----------------------------
 
 show_downloads: false
-
-# GitHub Pages settings
 
 github:
 is_project_page: true
 
-# Markdown & build settings
+# ----------------------------
+
+# Markdown & Build Settings
+
+# ----------------------------
 
 markdown: kramdown
 kramdown:
 input: GFM
 
-# Exclude unnecessary files
+# ----------------------------
+
+# Excluded Files
+
+# ----------------------------
 
 exclude:
 
