@@ -3,7 +3,7 @@
 This repository contains my **professional resume**, highlighting my education, skills, and experience as a **Computer Science & Engineering student** and aspiring **Software Developer**.
 
 ---
-
+![image alt](https://github.com/mhheerat/heerat.github.io/blob/0d0da1a0815831862e7682e2f527c6d48837ef98/passport%20size.jpg)
 ## 👤 About Me
 
 I am a motivated and dedicated Computer Science student at **American International University–Bangladesh (AIUB)** with hands-on experience in **database management**, **software development**, and **technical support**. I am passionate about building efficient systems and solving real-world problems using technology.
