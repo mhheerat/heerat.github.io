@@ -1,9 +1,15 @@
-# 📄 Resume – Mokammel Haque Heerat
+<p align="center">
+  <img src="https://github.com/mhheerat/heerat.github.io/blob/0d0da1a0815831862e7682e2f527c6d48837ef98/passport%20size.jpg?raw=true" alt="Mokammel Haque Heerat" width="160" />
+</p>
 
-This repository contains my **professional resume**, highlighting my education, skills, and experience as a **Computer Science & Engineering student** and aspiring **Software Developer**.
+<h1 align="center">📄 Resume – Mokammel Haque Heerat</h1>
+
+<p align="center">
+Computer Science & Engineering Student | Aspiring Software Developer
+</p>
 
 ---
-![image alt](https://github.com/mhheerat/heerat.github.io/blob/0d0da1a0815831862e7682e2f527c6d48837ef98/passport%20size.jpg)
+
 ## 👤 About Me
 
 I am a motivated and dedicated Computer Science student at **American International University–Bangladesh (AIUB)** with hands-on experience in **database management**, **software development**, and **technical support**. I am passionate about building efficient systems and solving real-world problems using technology.
@@ -32,41 +38,23 @@ Milestone College, Dhaka
 
 ### 🔹 Data & Technical Assistant — Safe Data Company
 
-* Worked on data management and software support tasks
-* Supported database-related operations and routine system checks
+* Supported data management and database-related operations
+* Performed routine system checks and software support tasks
 
 ### 🔹 Freelance Developer — Fiverr
 
-* Completed multiple client projects related to programming and databases
+* Completed client projects related to programming and databases
 * Built small-scale applications and solved real-world technical problems
-* Strengthened client communication and delivery-focused development skills
 
 ---
 
 ## 🛠️ Skills
 
-### Programming Languages
-
-* C, C++, C#
-* Java, Python
-
-### Database
-
-* MySQL
-* SQL Server
-
-### Technologies & Tools
-
-* .NET (Windows Forms)
-* Visual Studio
-* Git & GitHub
-* Microsoft Office
-
-### Soft Skills
-
-* Problem Solving
-* Teamwork
-* Communication
+**Programming:** C, C++, C#, Java, Python
+**Database:** MySQL, SQL Server
+**Technologies:** .NET (Windows Forms), Visual Studio
+**Tools:** Git, GitHub, Microsoft Office
+**Soft Skills:** Communication, Teamwork, Problem Solving
 
 ---
 
@@ -79,8 +67,8 @@ Milestone College, Dhaka
 
 ## 📁 Repository Contents
 
-* `Resume.pdf` – Latest version of my resume
-* `Resume.png` – Image version for quick preview
+* `Resume.pdf` – Latest resume
+* `Resume.png` – Resume image version
 
 ---
 
@@ -92,5 +80,4 @@ Milestone College, Dhaka
 
 ---
 
-⭐ If you are a recruiter or collaborator, feel free to connect with me.
-Thank you for visiting my resume repository!
+⭐ Thank you for visiting my resume repository.
